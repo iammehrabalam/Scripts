@@ -1,0 +1,10 @@
+python
+python3
+bash
+
+python packages
+---------------
+
+BeautifulSoup
+requests
+mechanize

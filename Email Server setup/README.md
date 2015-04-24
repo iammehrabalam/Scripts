@@ -7,13 +7,13 @@ You can also make for real server, some changes require but not secure.
 
 While installing postfix this popup appear
 
-![alt tag](https://raw.githubusercontent.com/mehrabalam/Scripts/Email Server setup/images/pop1.png)
+![alt tag](https://raw.githubusercontent.com/mehrabalam/Scripts/master/Email%20Server%20setup/images/pop1.png)
 
 select internet option and click on ok
 
 again this will appear
 
-![alt tag](https://raw.githubusercontent.com/mehrabalam/Scripts/master/Email Server setup/images/pop2.png)
+![alt tag](https://raw.githubusercontent.com/mehrabalam/Scripts/master/Email%20Server%20setup/images/pop2.png)
 
 type mail name eg. xyz.com/org/localhost
 
